@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 
 public class BOJ2748 {
 
+    // 피보나치 수 2 (브론즈 1)
+    // 문제유형 : 수학, 다이나믹 프로그래밍
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
