@@ -1,4 +1,4 @@
-package BOJ.Basic.DP;
+package boj.basic.dp;
 
 import java.io.BufferedReader;
 import java.io.IOException;
