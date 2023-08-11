@@ -24,7 +24,7 @@ public class BOJ1010 {
             }
         }
         StringBuilder sb = new StringBuilder();
-        for(int i=0;i<t;i+금+){
+        for(int i=0;i<t;i++){
             st = new StringTokenizer(br.readLine());
             int n = Integer.parseInt(st.nextToken());
             int m = Integer.parseInt(st.nextToken());
